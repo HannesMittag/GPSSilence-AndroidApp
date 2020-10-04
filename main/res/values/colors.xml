@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6EEFE3</color>
+    <color name="colorPrimaryDark">#78909C</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- main accent -->
+    <color name="colorMainAccent">#6EEFE3</color>
+
+    <!-- text -->
+    <color name="colorText_DarkGrey">#262626</color>
+    <color name="colorText_Red">#ff313a</color>
+    <!-- background -->
+    <color name="colorBg_White">#fbfbfb</color>
+    <color name="colorBg_Grey">#F3F3F3</color>
+
+</resources>
